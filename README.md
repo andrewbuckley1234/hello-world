@@ -1,2 +1,6 @@
 # hello-world
-I'm a 29 year old male living in salt lake city, utah.
+
+Hi Humans!
+
+Andrew here, I like node.js and coffeescript (I'm not made of that!).
+I've never been to the moon but I love tacos.
