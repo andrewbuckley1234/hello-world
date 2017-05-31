@@ -1,4 +1,2 @@
 # hello-world
-29 years old
-married
-lives in salt lake city, utah
+I'm a 29 year old male living in salt lake city, utah.
